@@ -6,6 +6,7 @@ This project focuses on analyzing a medical dataset related to early autism diag
 
 ## Dataset Overview
 
+https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers
 The dataset contains **1054 samples**, each describing:
 - Answers to the **Q-Chat-10 Toddler test** (variables A1–A10)
 - Age in months  
